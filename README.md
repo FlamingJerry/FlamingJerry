@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
 <h3 align="center">A passionate CompSci student</h3>
 
-- 🔭 I’m currently working on [my CompSci portfoio](https://github.com/FlamingJerry/CompSci_L6)
+- 🔭 I’m currently working on [my CompSci portfolio](https://github.com/FlamingJerry/CompSci_L6)
 
 - 📫 How to reach me **Discord: @newreaIm**
 
