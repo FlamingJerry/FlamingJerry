@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
 <h3 align="center">A passionate CompSci student</h3>
 
-- 🔭 I’m currently working on [my CompSci portfolio](https://github.com/FlamingJerry/CompSci_L6)
-
+- 🔭 I’m currently working on my CompSci portfolio. (In due time I expect to make a public portfolio.)
 - 📫 How to reach me **Discord: @newreaIm**
 
 - ⚡ Fun fact **I play ROBLOX**
